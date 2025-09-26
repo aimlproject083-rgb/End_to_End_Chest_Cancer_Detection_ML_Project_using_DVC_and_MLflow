@@ -53,7 +53,9 @@ bash
 Copy
 Edit
 git clone (https://github.com/aimlproject083-rgb/End_to_End_Chest_Cancer_Detection_ML_Project_using_DVC_and_MLflow.git)
+
 cd end-to-end-ml_project-chest-cancer-detection-using-mlops-and-dvc
+
 2️⃣ Create a Virtual Environment
 bash
 Copy
