@@ -108,7 +108,7 @@ streamlit run streamlit_app.py
 ✔ Get real-time predictions
 ✔ Confidence score displayed
 
-🖥 Live Demo: Chest Cancer Detection App
+🖥 Live Demo: [Chest Cancer Detection App](https://endtoendchestcancerdetectionaimlproject-6gcnrho.streamlit.app/)
 
 🔵 2. FastAPI REST API
 Run the FastAPI-based backend for model inference:
