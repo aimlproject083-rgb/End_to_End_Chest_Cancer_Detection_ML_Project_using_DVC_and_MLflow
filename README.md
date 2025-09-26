@@ -1,15 +1,23 @@
 🚀 End-to-End Chest Cancer Detection using MLOps & DVC
+
 🌟 An AI-powered solution for early chest cancer detection using Deep Learning and MLOps.
+
 📌 Integrated with DVC for dataset versioning & automated CI/CD workflows.
+
 🔬 Deployed via Streamlit & FastAPI for real-time predictions.
+
 
 🏥 Project Overview
 Chest cancer detection from medical images is a crucial application of AI in healthcare. This project follows a complete Machine Learning (ML) Lifecycle using MLOps principles and Data Version Control (DVC) to ensure:
 
 ✅ Scalability - Efficient dataset management with DVC.
+
 ✅ Reproducibility - Automated pipelines for training & deployment.
+
 ✅ Automation - Continuous Integration (CI) & Deployment (CD) via GitHub Actions.
+
 ✅ Real-Time Predictions - Deployable via Streamlit & FastAPI web apps.
+
 
 🖥 Live Demo: Chest Cancer Detection App
 
