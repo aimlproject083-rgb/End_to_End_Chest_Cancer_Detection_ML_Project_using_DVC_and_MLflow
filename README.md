@@ -168,6 +168,7 @@ Feel free to check the issues page.
 This project is licensed under the MIT License.
 
 📬 Contact
+
 📌 Author: Aryan Dhanuka , Aryan Upadhayay and Kushal Bansal
 
 
