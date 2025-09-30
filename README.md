@@ -6,6 +6,7 @@
 
 🔬 Deployed via Streamlit & FastAPI for real-time predictions.
 
+Dataset : https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
 🏥 Project Overview
 Chest cancer detection from medical images is a crucial application of AI in healthcare. This project follows a complete Machine Learning (ML) Lifecycle using MLOps principles and Data Version Control (DVC) to ensure:
